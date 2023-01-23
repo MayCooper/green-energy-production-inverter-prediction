@@ -1,5 +1,10 @@
 # green-energy-production-inverter-prediction
-The project aims to use AI to improve the prediction of weather and equipment failure in order to optimize power generation from solar panels. 
+The project aims to use AI to improve the prediction of weather and equipment failure in order to optimize power generation from solar panels.
+
+The project also includes monitoring and analyzing power usage to optimize the entire power grid. The AI will also predict the necessary capacity for new systems for customers and provide personalized recommendations for solar panel installations based on individual customer's electricity usage patterns. 
+
+The cost of this project is estimated to be around 200,000 dollars.
+
 # Problem Scoping
 
 The project aims to use AI to improve the prediction of weather and equipment failure in order to optimize power generation from solar panels. The project also includes monitoring and analyzing power usage to optimize the entire power grid. The AI will also predict the necessary capacity for new systems for customers and provide personalized recommendations for solar panel installations based on individual customer's electricity usage patterns. 
